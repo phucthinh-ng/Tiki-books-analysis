@@ -25,4 +25,9 @@ The goal is to practice data profiling, cleaning, and building a clear business-
 ## 📊 Dashboard Preview
 ![Dashboard Overview](docs/dashboard_overview.png)
 
-## 📁 Repository Structure
+## 🔁 Reproducibility
+To reproduce this analysis:
+1. Download the dataset from Kaggle
+2. Run SQL scripts in the `sql/` folder
+3. Open the Power BI file in `powerbi/`
+
