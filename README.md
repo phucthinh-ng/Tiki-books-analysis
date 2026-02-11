@@ -1,0 +1,25 @@
+# Tiki.vn Books Sales Analysis
+
+## 📌 Project Overview
+This project analyzes book sales data from Tiki.vn using a Kaggle dataset.
+The goal is to practice data profiling, cleaning, and building a clear business-focused dashboard.
+
+## 🗂 Dataset
+- Source: Kaggle – Tiki Books Dataset
+- Raw dataset is **not included** due to file size limitations.
+
+## 🔧 Tools & Skills
+- SQL (profiling, cleaning, data enrichment)
+- Power BI (DAX basics, KPI cards, slicers, charts)
+- Data visualization & KPI design
+
+## 🔄 Workflow
+1. Data profiling using SQL
+2. Data cleaning & transformation
+3. Create cleaned views for visualization
+4. Build Power BI dashboard
+
+## 📊 Dashboard Preview
+![Dashboard Overview](docs/dashboard_overview.png)
+
+## 📁 Repository Structure
