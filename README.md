@@ -5,8 +5,11 @@ This project analyzes book sales data from Tiki.vn using a Kaggle dataset.
 The goal is to practice data profiling, cleaning, and building a clear business-focused dashboard.
 
 ## 🗂 Dataset
-- Source: Kaggle – Tiki Books Dataset
-- Raw dataset is **not included** due to file size limitations.
+- Source: Kaggle – Tiki Books Dataset  
+- Link: https://www.kaggle.com/datasets/biminhc/tiki-books-dataset  
+- Description: Book product data from Tiki.vn, including price, rating, sold quantity, and category information.
+
+⚠️ Note: The raw dataset is not included in this repository due to file size limitations.
 
 ## 🔧 Tools & Skills
 - SQL (profiling, cleaning, data enrichment)
