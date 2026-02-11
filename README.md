@@ -12,7 +12,7 @@ The goal is to practice data profiling, cleaning, and building a clear business-
 ⚠️ Note: The raw dataset is not included in this repository due to file size limitations.
 
 ## 🔧 Tools & Skills
-- SQL (profiling, cleaning, data enrichment)
+- SQL (profiling, cleaning)
 - Power BI (DAX basics, KPI cards, slicers, charts)
 - Data visualization & KPI design
 
